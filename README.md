@@ -1,7 +1,7 @@
 # Homeworks
 Меня зовут Юля, я студентка [4 курса](https://drive.google.com/open?id=1Ucan0zHp5kk0vkUhCekY4ySa-qHvFu9j) [школы культурологии](https://www.hse.ru/ba/cultural). Я занимаюсь исследованием функций современных культурных институций. 
 
-![](https://drive.google.com/file/d/1dDkDROOG3GDI3oaXGnEfysNh9zgpWQ3M/preview)
+![](https://b.radikal.ru/b07/1809/7d/3e83f744cfa2.jpg)
 
 
 №|Описание|Ссылка на работу 
