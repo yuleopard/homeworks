@@ -6,6 +6,6 @@
 
 №|Описание|Ссылка на работу 
 ---|---|---
-1|не знаю|нет
+1|HW1|[HW1](https://github.com/yuleopard/python-dh-hw/blob/master/HW1.ipynb)
 2|не знаю|нет
 3|не знаю|нет
